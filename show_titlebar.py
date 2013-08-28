@@ -25,7 +25,7 @@ AVAILABLE = ['ShowTitleBar']
 
 
 class ShowTitleBar(plugin.MenuItem):
-    """Terminator Plugin to show title bar in context menu."""
+    """Terminator Plugin to display "Show titlebar" in context menu."""
 
     def __init__(self):
         plugin.MenuItem.__init__(self)
