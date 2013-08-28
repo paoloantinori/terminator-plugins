@@ -6,7 +6,8 @@
 # GPL v2 
 # See copyright file that comes with this file for full licence
 
-"""show_titlebar.py - Terminator Plugin to show title bar in context menu.
+"""
+show_titlebar.py - Terminator Plugin to display "Show titlebar" in context menu
 
 Normally it's better (for me) to have title bar hidden, but I can't drag'n'drop
 terminal without a visible title bar. Now, digging through all options to turn
